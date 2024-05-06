@@ -1,2 +1,2 @@
 # FastSnack
-Projeto de Software
+Site de compra online de comidas e bebidas em eventos.
